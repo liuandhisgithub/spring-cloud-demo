@@ -1,0 +1,5 @@
+server:
+  port: 8101
+
+provider:
+  address: http://localhost:8001/provider
